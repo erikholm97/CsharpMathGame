@@ -1,0 +1,11 @@
+C:\Users\erikh\source\repos\theGuessingGame\theGuessingGame\bin\Debug\netcoreapp3.0\theGuessingGame.exe
+C:\Users\erikh\source\repos\theGuessingGame\theGuessingGame\bin\Debug\netcoreapp3.0\theGuessingGame.deps.json
+C:\Users\erikh\source\repos\theGuessingGame\theGuessingGame\bin\Debug\netcoreapp3.0\theGuessingGame.runtimeconfig.json
+C:\Users\erikh\source\repos\theGuessingGame\theGuessingGame\bin\Debug\netcoreapp3.0\theGuessingGame.runtimeconfig.dev.json
+C:\Users\erikh\source\repos\theGuessingGame\theGuessingGame\bin\Debug\netcoreapp3.0\theGuessingGame.dll
+C:\Users\erikh\source\repos\theGuessingGame\theGuessingGame\bin\Debug\netcoreapp3.0\theGuessingGame.pdb
+C:\Users\erikh\source\repos\theGuessingGame\theGuessingGame\obj\Debug\netcoreapp3.0\theGuessingGame.csprojAssemblyReference.cache
+C:\Users\erikh\source\repos\theGuessingGame\theGuessingGame\obj\Debug\netcoreapp3.0\theGuessingGame.AssemblyInfoInputs.cache
+C:\Users\erikh\source\repos\theGuessingGame\theGuessingGame\obj\Debug\netcoreapp3.0\theGuessingGame.AssemblyInfo.cs
+C:\Users\erikh\source\repos\theGuessingGame\theGuessingGame\obj\Debug\netcoreapp3.0\theGuessingGame.dll
+C:\Users\erikh\source\repos\theGuessingGame\theGuessingGame\obj\Debug\netcoreapp3.0\theGuessingGame.pdb
